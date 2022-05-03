@@ -8,7 +8,8 @@ body {
 
 #nome {
   background-color: white;
-  color: width: ;;
+  color: white;
+  width: none;
 }
 
 #senha {

@@ -2,34 +2,56 @@ body {
   background-color: orange;
 }
 
-#cadastro {
+.selecoes {
   background-color: white;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  border-radius: 10px;
 }
 
-#nome {
-  background-color: white;
-  color: white;
-  width: none;
+img {
+  width: 74px;
+  height: 74px;
 }
 
-#senha {
-  background-color: white;
+main {
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+  column-count: 2;
 }
 
-#email {
-  background-color: white;
+h1 {
+  text-align: center;
 }
 
-#Login {
-  background-color: white;
+#logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100px;
+  height: 100px;
 }
 
-#E-mail {
-  background-color: white;
+#biologia {
+  margin-top: 10px;
 }
 
-#Senha {
-  background-color: white;
+h2 {
+ display: block;
+  font-size: 1.5em;
+  margin: 0;
+  font-weight: bold;
 }
 
+#pesquisa {
+  display: block;
+  margin-left: none;
+  margin-right: none;
+  padding: none;
+  width: 330px;
+}
 
+h1 {
+  text-align: center;
+}

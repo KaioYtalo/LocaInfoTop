@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: orange;
+  margin: 0;
+  width: 375px;
+  font-family: 'Poppins', sans-serif;
 }
 
 .selecoes {
@@ -8,6 +18,7 @@ body {
   height: 150px;
   text-align: center;
   border-radius: 10px;
+  margin: 20px;
 }
 
 img {
@@ -15,10 +26,12 @@ img {
   height: 74px;
 }
 
-main {
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-  column-count: 2;
+#row1 {
+  display: flex;
+}
+
+#row2 {
+  display: flex;
 }
 
 h1 {
@@ -54,4 +67,11 @@ h2 {
 
 h1 {
   text-align: center;
+}
+
+#pesquisa {
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

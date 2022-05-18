@@ -1,0 +1,43 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+#logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 100px;
+}
+
+#local {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.opcao {
+    background-color: white;
+    border-radius: 20px;
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#opcao {
+    display: flex;
+}
+
+
+#seguirbtn {
+    border: none;
+    background-color: white;
+    border-radius: 20%;
+}
+
+#seguir {
+    width: 60px;
+    height: 60px;
+}
+
+  

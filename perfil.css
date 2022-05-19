@@ -1,0 +1,43 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+#perfil {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 230px;
+    height: 230px;
+}
+
+#seguir {
+    border: none;
+    background-color: orange;
+    width: 40px;
+    height: 40px;
+}
+
+#seguirbtn {
+    border: none;
+    background-color: orange;
+    margin-left: -315px;
+}
+
+.selecoes {
+    background-color: white;
+    width: 250PX;
+    height: max-content;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.dados {
+    width: 375px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}

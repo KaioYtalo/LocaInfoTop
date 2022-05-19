@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body {
-    background-color: orange;
+    background-image: linear-gradient(to top, #ff6000, #ff7d00, #ff9800, #ffb013, #fdc72d);
     text-align: center;
     font-family: 'Poppins', sans-serif;
+    height: 100vh;
 }
 
 img {

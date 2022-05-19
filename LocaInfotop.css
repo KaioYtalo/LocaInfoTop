@@ -6,10 +6,11 @@
 }
 
 body {
-  background-color: orange;
+  background-image: linear-gradient(to top, #ff6000, #ff7d00, #ff9800, #ffb013, #fdc72d);
   margin: 0;
   width: 375px;
   font-family: 'Poppins', sans-serif;
+  height: 100vh;
 }
 
 .selecoes {

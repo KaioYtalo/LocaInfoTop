@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body {
+    background-image: linear-gradient(to top, #ff6000, #ff7d00, #ff9800, #ffb013, #fdc72d);
     font-family: 'Poppins', sans-serif;
-    background-color: orange;
+    font-family: 'Poppins', sans-serif;
+    height: 100vh;
 }
 
 h1 {
@@ -36,7 +38,6 @@ button {
     width: 150px;
     height: 35px;
     font-size: 17px;
-    color: rgb(210, 150, 39);
 }
 
 input {

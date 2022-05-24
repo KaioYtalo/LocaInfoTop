@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 * {
+  text-decoration: none;
+}
+
+* {
   margin: 0;
   padding: 0;
 }
@@ -10,7 +14,7 @@ body {
   margin: 0;
   width: 375px;
   font-family: 'Poppins', sans-serif;
-  height: 100vh;
+  height: 130vh;
 }
 
 .selecoes {
@@ -85,4 +89,10 @@ h1 {
   height: 30px;
   border-radius: 15px;
   border: none;
+}
+
+#perfil {
+  
+  width: 70px;
+  height: 70px;
 }
